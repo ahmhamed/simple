@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="messagetxt"> Enter Your Message Here.</string>
+</resources>
